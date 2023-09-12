@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 const Bookmark = ({bookmark}) => {
     const {title} = bookmark;
     return (

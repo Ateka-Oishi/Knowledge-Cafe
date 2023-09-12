@@ -21,9 +21,3 @@ Bookmarks.propTypes = {
 }
 
 export default Bookmarks
-Bookmarks.propTypes = {
-    bookmarks: PropTypes.array,
-    readingTime: PropTypes.
-}
-
-export default Bookmarks.number
